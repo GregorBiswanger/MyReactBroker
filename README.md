@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# MyReactBroker
+
+The [MyBroker sample](https://github.com/GregorBiswanger/MyBroker-Template) in React.js - Developed with Sebastian Springer via Live Stream on Twitch: https://www.twitch.tv/videos/809724022
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
